@@ -1,0 +1,9 @@
+D:\RandD\Validation\WinForm\bin\Debug\WinForm.exe.config
+D:\RandD\Validation\WinForm\bin\Debug\WinForm.exe
+D:\RandD\Validation\WinForm\bin\Debug\WinForm.pdb
+D:\RandD\Validation\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+D:\RandD\Validation\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\RandD\Validation\WinForm\obj\Debug\WinForm.SNForm.resources
+D:\RandD\Validation\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\RandD\Validation\WinForm\obj\Debug\WinForm.exe
+D:\RandD\Validation\WinForm\obj\Debug\WinForm.pdb
