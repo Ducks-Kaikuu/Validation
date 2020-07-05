@@ -19,3 +19,14 @@ WinForm/.vs/WinForm/v16/.suo
 WinForm/obj/Debug/WinForm.csproj.GenerateResource.cache
 WinForm/obj/Debug/WinForm.csprojAssemblyReference.cache
 WinForm/obj/Debug/WinForm.pdb
+*.suo
+*.db
+*.opendb
+*.ipch
+*.log
+*.lastbuildstate
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.obj
