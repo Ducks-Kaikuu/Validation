@@ -13,7 +13,10 @@ int main(){
 	for(s32 i=0 ; i<10 ; ++i){
 		printf("%d\n", i);
 	}
-	
+
+	s32 sizeA = sizeof(s64);
+	s32 sizeB = sizeof(s32);
+
 	return 0;
 }
 
